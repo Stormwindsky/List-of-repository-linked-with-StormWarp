@@ -2,8 +2,6 @@
 
 https://github.com/Stormwindsky/scratch-gui/
 
-https://github.com/Stormwindsky/StormWarp
-
 https://github.com/Stormwindsky/My-Extension-Blocks-under-license-CC0-1.0-for-Turbowarp
 
 https://github.com/Stormwindsky/Samples-StormWarp-Projects
