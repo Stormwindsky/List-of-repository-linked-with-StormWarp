@@ -9,3 +9,5 @@ https://github.com/Stormwindsky/Samples-StormWarp-Projects
 https://github.com/Stormwindsky/StormWarp-Notes-and-Credits
 
 https://github.com/Stormwindsky/StormWarp-Launcher-Website
+
+https://github.com/Stormwindsky/desktop
